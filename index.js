@@ -19,7 +19,7 @@ document.getElementById("footer-icon").addEventListener('click', function(){
         document.getElementById("footer-icon").style.backgroundColor = "Transparent";
     }
 }); */
-let counter = 0; 
+/*let counter = 0; 
 var image = document.getElementById('navbar-image');
 image.onclick = function(){
     counter++;
@@ -30,7 +30,7 @@ image.onclick = function(){
         image.src = "/images/vecteezy-logo-white-background.jpg"
         document.getElementById('navbar-image-slogan').style.color = "Black";
     }
-};
+};*/
 
 item1 = document.getElementById('nav-item-1');
 item1.addEventListener('mouseover', function(){
