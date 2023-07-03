@@ -235,6 +235,7 @@ h1 {
     width: 80%;
     max-width: 600px;
     margin: 20px;
+    text-decoration: none; 
 }
 
 .articulos .card-header {
